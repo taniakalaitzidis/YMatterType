@@ -36,7 +36,7 @@ public struct Typography {
     ///   - fontWeight: font weight to use
     ///   - fontSize: font size to use
     ///   - lineHeight: line height to use
-    ///   - chaacterSpacing: letter spacing to use (defaults to `0`)
+    ///   - letterSpacing: letter spacing to use (defaults to `0`)
     ///   - textCase: text case to apply (defaults to `.none`)
     ///   - textDecoration: text decoration to apply (defaults to `.none`)
     ///   - textStyle: text style to use for scaling (defaults to `.body`)
@@ -70,7 +70,7 @@ public struct Typography {
     ///   - fontWeight: font weight to use
     ///   - fontSize: font size to use
     ///   - lineHeight: line height to use
-    ///   - chaacterSpacing: letter spacing to use (defaults to `0`)
+    ///   - letterSpacing: letter spacing to use (defaults to `0`)
     ///   - textCase: text case to apply (defaults to `.none`)
     ///   - textDecoration: text decoration to apply (defaults to `.none`)
     ///   - textStyle: text style to use for scaling (defaults to `.body`)
